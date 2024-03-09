@@ -1,1 +1,3 @@
-cout<<"sum of two numbers":"a+b"
+cout<<"sum of two numbers":"a+b";
+
+cout<<"subtract two numbers":"a-b";
